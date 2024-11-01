@@ -3,7 +3,7 @@ description: Report an email to be added to the blacklist
 title: "[Report]: [EMAIL]"
 labels: ["blacklist"]
 assignees:
-  - sefinek24
+  - sefinek
 
 body:
   - type: input
