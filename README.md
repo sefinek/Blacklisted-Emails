@@ -17,8 +17,10 @@ https://raw.githubusercontent.com/sefinek/Blacklisted-Emails/main/blacklist/LIST
 ```
 
 ## 📨 Where can I preview the content of spam emails?
-Markdown files containing the contents of spam emails are located in the [blacklist/mails](blacklist/mails) folder.  
-⚠️ Do not click any links within these messages – they may lead to malicious websites!
+Markdown files containing the contents of spam emails are located in the [blacklist/mails](blacklist/mails) folder.
+
+> [!CAUTION]
+> Do not click any links within these messages – they may lead to malicious websites!
 
 ## 🛠️ Contributing
 Contributions are welcome (:
