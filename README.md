@@ -28,5 +28,6 @@ Contributions are welcome (:
 ## 💬 Support
 Join our [Discord server](https://discord.gg/53DBjTuzgZ) or open a new [Issue](https://github.com/sefinek/Blacklisted-Emails/issues).
 
-## 📑 [MIT License](LICENSE)
-Copyright 2024-2025 © by [Sefinek](https://sefinek.net). All Rights Reserved.
+## 📑 MIT License
+Copyright © 2024–2025 [Sefinek](https://sefinek.net)
+##  [MIT License](LICENSE)
