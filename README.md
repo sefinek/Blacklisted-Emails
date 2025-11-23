@@ -30,4 +30,3 @@ Join our [Discord server](https://discord.gg/53DBjTuzgZ) or open a new [Issue](h
 
 ## 📑 MIT License
 Copyright © 2024–2025 [Sefinek](https://sefinek.net)
-##  [MIT License](LICENSE)
