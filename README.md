@@ -6,7 +6,6 @@ The purpose of this list is to help administrators identify potential threats an
 Do you have questions or want to receive notifications about important changes or new features in my repositories?
 Join my [Discord server](https://discord.gg/S7NDzCzQTg)! If you do not use Discord, you can also open an issue on GitHub.
 
-The project is released under the [MIT license](LICENSE) — you can do whatever you want with it.  
 If you like this repository, leave a star ⭐. Thank you!
 
 ## 📄 How to use this list?
