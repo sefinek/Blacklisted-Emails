@@ -25,6 +25,6 @@ Would you like to add a new email address to the blacklist? Create a new [Issue]
 
 ## 💬 Support
 Join our [Discord server](https://discord.gg/S7NDzCzQTg) or open a new [Issue](https://github.com/sefinek/Blacklisted-Emails/issues).
-
-## 📑 MIT License
+``
+## 📝 MIT License
 Copyright © 2024-2026 [Sefinek](https://sefinek.net)
