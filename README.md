@@ -18,13 +18,13 @@ https://raw.githubusercontent.com/sefinek/Blacklisted-Emails/main/blacklist/LIST
 Markdown files containing spam email content are located in the [blacklist/mails](blacklist/mails) folder.
 
 > [!CAUTION]
-> Do not click any links in these messages — they may lead to malicious websites!
+> Do not click any links in these messages - they may lead to malicious websites!
 
 ## 🛠️ Contributing
 Would you like to add a new email address to the blacklist? Create a new [Issue](https://github.com/sefinek/Blacklisted-Emails/issues) or [Pull request](https://github.com/sefinek/Blacklisted-Emails/pulls). Thank you!
 
 ## 💬 Support
 Join our [Discord server](https://discord.gg/S7NDzCzQTg) or open a new [Issue](https://github.com/sefinek/Blacklisted-Emails/issues).
-``
+
 ## 📝 MIT License
 Copyright © 2024-2026 [Sefinek](https://sefinek.net)
